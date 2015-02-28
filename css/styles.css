@@ -1,0 +1,22 @@
+img {border: 5px solid white;}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {color: darksalmon;}
+
+a {color: grey;}
+
+li {list-style-type: circle;}
+
+body {background-color: black;}
+
+p {color: white;}
+p.center {text-align: center;}
+
+h2 {color: white;}
+
+body {color: white;}
